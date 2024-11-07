@@ -1,6 +1,6 @@
 ## Sanibonani, Welcome to my GitHub! 
 
-# Founding member of BlackkardSA |Future Cybersecurity Specialist | AI-Driven Agriculture Enthusiast | Full-Stack Developer
+# Founding member of BlackkardSA | Cybersecurity Specialist | AI-Driven Agriculture Enthusiast | Full-Stack Developer
 
   
 I’m a passionate **Cybersecurity Specialist** with a deep interest in **network protection** and securing infrastructures from evolving cyber threats. Alongside this, I am equally excited about the potential of **AI and IoT** in transforming **agriculture production**. I aim to merge my expertise in cybersecurity with cutting-edge AI technologies to create **intelligent, self-optimizing systems** that can revolutionize how we produce food while enhancing the security of these systems.
