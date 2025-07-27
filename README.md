@@ -1,78 +1,58 @@
-# 🌟 **Welcome to My GitHub!**
+# 👋 Hi, I'm Phumlani Ngubane
 
-👋 Hi there! I'm Phums, a **Cisco-badged networking enthusiast** with a strong foundation in **agriculture** and a passion for leveraging **technology to transform rural and farming industries**. My journey blends practical field experience with cutting-edge tech solutions, aiming to create smarter, connected agricultural systems.
-
----
-
-## **🔍 About Me**
-- 🌱 **Background:** Agricultural professional transitioning into the world of networking and technology.
-- 🌐 **Focus Areas:**  
-  - **Networking:** LAN/WAN configurations, IoT integration, network security, AI and automation.  
-  - **Smart Agriculture:** Designing IoT-enabled solutions for farming efficiency and rural connectivity.  
-  - **Problem Solver:** Dedicated to tackling challenges like limited internet access and optimizing farm productivity with tech.  
-- 🎯 **Goal:** To merge my expertise in agriculture and networking to become a **network technician** and eventually transition into **cybersecurity** or **DevOps**.
+### 📍 Aspiring Cloud Technician | Technical Support Specialist | Always Learning
 
 ---
 
-## **💡 My Projects**
-Here’s a glimpse of what I’m building and learning:  
+## 🧠 About Me
 
-### 🚀 **Networking Projects**
-1. **[Networking Labs](#)**  
-   - Real-world Cisco configurations for VLANs, EIGRP, and OSPF.  
-   - Includes Packet Tracer and GNS3 files for practical setups.  
-   - Demonstrates troubleshooting and optimization skills.  
+I'm a dedicated and curious individual currently working in **technical support** — helping real customers solve real problems related to **fibre**, **ADSL**, **email**, and **landline** services through my role with **Telkom via Startek**. With hands-on experience troubleshooting internet connectivity, guiding users through router and ONT setups, and providing email configuration support, I’ve developed a strong foundation in communication and remote support.
 
-2. **[Network Automation Scripts](#)**  
-   - Python tools for automating network device configurations.  
-   - Includes SNMP-based monitoring scripts and real-time health checks.  
+But I’m not stopping there.  
+My goal is to transition into **Cloud Engineering/Cloud Support**, where I can work on scalable infrastructure, automation, and secure systems that power the internet.
 
 ---
 
-### 🌾 **Agriculture Meets Networking**
-1. **[IoT Farm Network Design](#)**  
-   - Designed a network to connect IoT devices like soil sensors and weather stations to a cloud dashboard.  
-   - Addressed challenges like rural connectivity and energy efficiency.  
+## 🚀 Current Focus
 
-2. **[Rural Connectivity Blueprint](#)**  
-   - Created a solar-powered network topology for remote farms.  
-   - Leveraged VPNs and low-power devices to ensure reliable data flow.  
-
----
-
-### 🔧 **Hybrid Solutions**
-1. **[AgriNet Hub](#)**  
-   - A project combining IoT, networking, and cloud to provide farmers with actionable insights.  
-   - Demonstrates the practical application of networking knowledge in agriculture.  
+- 🌐 **Linux Fundamentals**  
+- 📦 **Docker & Containers**  
+- ☸️ **Kubernetes Basics**  
+- 🔐 **Cloud Security Concepts**  
+- ☁️ Studying for **OCI (Oracle Cloud Infrastructure)** certification  
+- 🧩 Learning **CI/CD**, pipelines, and automation tools  
+- 💬 Improving communication using **influence, NLP, and customer psychology** to better support users
 
 ---
 
-## **📜 Certifications**
-- Cisco Badge: Networking Basics  
-- Salesforce: Ai associate 
+## 🔧 Tools & Tech I'm Using or Learning
+
+| Category          | Tools / Technologies                                      |
+|------------------|-----------------------------------------------------------|
+| Cloud Platforms   | OCI, AWS (beginner level)                                 |
+| Containers        | Docker, Kubernetes (learning stage)                       |
+| Operating Systems | Linux (Ubuntu, CLI), Windows                             |
+| Networking        | DNS, DHCP, IP routing basics, PPPoE, ONT setup            |
+| Support Tools     | Outlook, Cisco Dialer, WhatsApp, Webmail, Survey123       |
+| Productivity      | Typing (27–34 WPM), Reporting, Email Communication        |
 
 ---
 
-## **📚 Skills**
-- Networking: VLANs, EIGRP, OSPF, BGP, NAT, ACLs.  
-- Tools: Packet Tracer, Wireshark, Python.  
-- Agriculture: Understanding of farming workflows, challenges, and IoT needs.  
-- Soft Skills: Problem-solving, adaptability, and strong collaboration skills.  
+## 🎯 My Goal
+
+To become a **Cloud Technician / Cloud Support Engineer**, where I can use my current support background and evolving cloud skills to help maintain, secure, and troubleshoot enterprise-level infrastructure.
 
 ---
 
-## **💬 Let’s Connect!**
-- 🌐  https://www.linkedin.com/in/phumlani-n-5a37b91aa(#)  
-- ✉️ ppphum24@gmail.com(#)  
+## 🔗 Let’s Connect
+
+If you’re into **cloud, DevOps, Linux**, or just enjoy solving real-world tech problems — let’s connect!
+
+- 💼 [LinkedIn](#) *(Phumlani N)*  
+- 📫 Email: *(ppphum24@gmail.com)*  
+- 📁 Portfolio / Projects: Coming soon!
 
 ---
 
-Feel free to explore my repositories and reach out if you want to collaborate on projects that combine **networking and innovative agricultural solutions**!
-
-
-
-
-
-
-
+> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
 
