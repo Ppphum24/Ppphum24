@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phumlani Ngubane
 
-### 📍 Aspiring Cloud Technician | Technical Support Specialist | Always Learning
+### 📍Cloud Technician | Technical Support Specialist | Always Learning
 
 ---
 
